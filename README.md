@@ -68,6 +68,10 @@ The dataset contains demographic and employment-related features.
 | Recall       | 0.6134      | 0.6385           | 0.6561        |
 | F1-Score     | 0.6339      | 0.6811           | 0.6820        |
 
+
+<img width="1493" height="790" alt="image" src="https://github.com/user-attachments/assets/3e21bc63-6c17-4291-8a38-be208e601764" />
+
+
 ---
 
 ## 📈 Conclusion
@@ -99,9 +103,9 @@ The **Tuned Neural Network** achieved the highest Accuracy and F1-Score, making 
 
 ---
 
-## 📎 Optional Additions
-If needed, I can add:
-- Installation & usage steps  
-- Centered banner image  
-- Result visuals (confusion matrix, ROC, feature plots)  
-- Code snippets for inference  
+
+
+
+##  Contact
+- **Bashar Bayatna**, Mechatronics Engineer | Junior Data Scientist  
+- Email: [Basharbayatna11@gmail.com](mailto:Basharbayatna11@gmail.com)
