@@ -69,7 +69,8 @@ The dataset contains demographic and employment-related features.
 | F1-Score     | 0.6339      | 0.6811           | 0.6820        |
 
 
-<img width="1493" height="790" alt="image" src="https://github.com/user-attachments/assets/3e21bc63-6c17-4291-8a38-be208e601764" />
+<img width="1493" height="790" alt="download" src="https://github.com/user-attachments/assets/bc310a77-0b4e-4bd8-9e51-d6156489b5c4" />
+
 
 
 ---
