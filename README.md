@@ -29,6 +29,9 @@ The dataset contains demographic and employment-related features.
 - `native-country` — Country of origin  
 
 ### Target Variable
+
+<img width="589" height="390" alt="image" src="https://github.com/user-attachments/assets/6e167a3b-ceb5-485a-8ad4-929bd5a53f5b" />
+
 - `income`: **HIGH** (> 50K) or **LOW** (≤ 50K)  
   *(Original values were mapped to LOW and HIGH during preprocessing.)*
 
