@@ -82,18 +82,23 @@ The dataset contains demographic and employment-related features.
 The **Tuned Neural Network** achieved the highest Accuracy and F1-Score, making it the best-performing model for this task. Strong performance resulted from preprocessing, PCA + clustering, and hyperparameter tuning.
 
 ### Top 10 Most Important Features (Permutation Importance)
-1. `marital-status_Married-civ-spouse`  
-2. `educational-num`  
-3. `capital-gain`  
-4. `relationship_Husband`  
-5. `age`  
-6. `hours-per-week`  
-7. `PCA_1` *(engineered feature)*  
-8. `capital-loss`  
-9. `relationship_Wife`  
-10. `Cluster` *(engineered feature)*  
 
-*Engineered features like PCA components and Cluster label proved highly predictive.*
+<img width="904" height="470" alt="image" src="https://github.com/user-attachments/assets/9df0ef96-34a8-4f2c-9913-0af11396fb4a" />
+
+
+1. `age` 
+2. `educational-num`
+3. `marital-status_Married-civ-spouse`
+4. `hours-per-week`  
+5. `capital-gain`
+6. `marital-status_Married`
+7. `relationship_Own-Child`
+8. `relationship_Not-in-family`
+9. `gender-Male`
+10. `capital-loss` 
+    
+ 
+
 
 ---
 
